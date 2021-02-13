@@ -88,4 +88,9 @@ Mongo DB Installation Complete. Now  Next time when you run MongoDB, you need to
 11. [Limit Records](https://github.com/mandarmakhi/Mongo_DB/blob/master/11.%20Limit%20Records.ipynb)
 
 12. [Sort Records](https://github.com/mandarmakhi/Mongo_DB/blob/master/12.%20Sort%20Records.ipynb)
- 
+
+13. [Indexing](https://github.com/mandarmakhi/Mongo_DB/blob/master/MongoDB%20Tutorial/13.%20Indexing.ipynb)
+
+14. [Aggregation](https://github.com/mandarmakhi/Mongo_DB/blob/master/MongoDB%20Tutorial/14.%20%20Aggregation.ipynb)
+
+15. [Create Backup](https://github.com/mandarmakhi/Mongo_DB/blob/master/MongoDB%20Tutorial/15.%20Create%20Backup.ipynb)
